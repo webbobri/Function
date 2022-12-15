@@ -1,0 +1,15 @@
+C:\Users\bobri\Desktop\fuction\Function\Function\bin\Debug\net6.0\Function.exe
+C:\Users\bobri\Desktop\fuction\Function\Function\bin\Debug\net6.0\Function.deps.json
+C:\Users\bobri\Desktop\fuction\Function\Function\bin\Debug\net6.0\Function.runtimeconfig.json
+C:\Users\bobri\Desktop\fuction\Function\Function\bin\Debug\net6.0\Function.dll
+C:\Users\bobri\Desktop\fuction\Function\Function\bin\Debug\net6.0\Function.pdb
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.AssemblyInfoInputs.cache
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.AssemblyInfo.cs
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.dll
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\refint\Function.dll
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.pdb
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\Function.genruntimeconfig.cache
+C:\Users\bobri\Desktop\fuction\Function\Function\obj\Debug\net6.0\ref\Function.dll
